@@ -15,9 +15,7 @@ Projeto tem o objetivo de treinar conhecimentos Front-End.
 </div>
 
 <h2>ScreenShot - View Spoiler</h2>
-
-<img src="https://i.imgur.com/BTdZiS6.png">
-
+<center><img src="https://i.imgur.com/tRmCfJe.png"></center>
 <h2> Comentários </h2>
 
 O Projeto foi feito de acordo com o layout disponbilizado no figma pela a ALURA. Como desafio da Oracle Next Education. o Projeto foi de enorme importância para a ampliação de conhecimento em JavaScript e CSS. Por utilizamos Armazanemanto de Dados do navegador, Estruturas de Dados e requisição a API com FETCH, onde possibilitou desenvolver novas habilidade com o DOM (Modelo de Objeto de Documentos)
